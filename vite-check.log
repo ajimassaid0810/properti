@@ -1,0 +1,18 @@
+
+> dev
+> vite --host 127.0.0.1 --port 5174 --strictPort
+
+Inertia SSR dev endpoint: /__inertia_ssr
+[2m3:11:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m info: Types generated for actions, routes, form variants
+  Plugin: [35m@laravel/vite-plugin-wayfinder[39m
+[2m3:11:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Re-optimizing dependencies because vite config has changed
+Warming up Inertia SSR module graph...
+
+  [32m[1mVITE[22m v8.0.13[39m  [2mready in [0m[1m3509[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5174[22m/[39m
+
+  [31m[1mLARAVEL[22m v13.9.0[39m  [2mplugin[22m [1mv3.1.0[22m
+
+  [32m➜[39m  [1mAPP_URL[22m: [36mhttp://localhost:[1m8000[22m[39m
+[2m3:11:36 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [optimizer] scanning dependencies...

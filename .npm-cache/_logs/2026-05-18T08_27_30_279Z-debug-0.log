@@ -1,0 +1,38 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.9.0
+1 info using npm@11.9.0
+2 info using node@v24.14.0
+2 info using node@v24.14.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\user\Downloads\cp\company_profile_properti\.npmrc
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+5 silly config load:file:C:\Users\user\.npmrc
+4 silly config load:file:C:\Users\user\Downloads\cp\company_profile_properti\.npmrc
+6 silly config load:file:C:\Users\user\AppData\Roaming\npm\etc\npmrc
+5 silly config load:file:C:\Users\user\.npmrc
+6 silly config load:file:C:\Users\user\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm run build
+7 verbose title npm run types:check
+8 verbose argv "run" "build"
+9 verbose logfile logs-max:10 dir:C:\Users\user\Downloads\cp\company_profile_properti\.npm-cache\_logs\2026-05-18T08_27_30_279Z-
+8 verbose argv "run" "types:check"
+9 verbose logfile logs-max:10 dir:C:\Users\user\Downloads\cp\company_profile_properti\.npm-cache\_logs\2026-05-18T08_27_30_279Z-
+10 verbose logfile C:\Users\user\Downloads\cp\company_profile_properti\.npm-cache\_logs\2026-05-18T08_27_30_279Z-debug-0.log
+10 verbose logfile C:\Users\user\Downloads\cp\company_profile_properti\.npm-cache\_logs\2026-05-18T08_27_30_279Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+12 silly logfile done cleaning log files
+13 verbose cwd C:\Users\user\Downloads\cp\company_profile_properti
+14 verbose os Windows_NT 10.0.26200
+15 verbose node v24.14.0
+16 verbose npm  v11.9.0
+17 verbose exit 2
+18 verbose code 2
+13 verbose cwd C:\Users\user\Downloads\cp\company_profile_properti
+14 verbose os Windows_NT 10.0.26200
+15 verbose node v24.14.0
+16 verbose npm  v11.9.0
+17 verbose exit 1
+18 verbose code 1
